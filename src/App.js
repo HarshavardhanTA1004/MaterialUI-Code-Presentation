@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import InputComponent from './InputComponent';
+import GridComponent from './GridComponent';
 function App() {
   return (
     <React.Fragment>
       <div className='container'>
-        <InputComponent></InputComponent>
+        <GridComponent></GridComponent>
       </div>
     </React.Fragment>
   );
