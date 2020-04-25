@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import AppbarComponent from './AppbarComponent';
+import ProgressComponent from './ProgressComponent';
 function App() {
   return (
     <React.Fragment>
       <div className='container'>
-        <AppbarComponent></AppbarComponent>
+        <ProgressComponent></ProgressComponent>
       </div>
     </React.Fragment>
   );
