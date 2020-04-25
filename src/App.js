@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import GridComponent from './GridComponent';
+import DateComponent from './DateComponent';
 function App() {
   return (
     <React.Fragment>
       <div className='container'>
-        <GridComponent></GridComponent>
+        <DateComponent></DateComponent>
       </div>
     </React.Fragment>
   );
