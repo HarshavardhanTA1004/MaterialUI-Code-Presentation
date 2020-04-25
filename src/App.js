@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import DateComponent from './DateComponent';
+import AppbarComponent from './AppbarComponent';
 function App() {
   return (
     <React.Fragment>
       <div className='container'>
-        <DateComponent></DateComponent>
+        <AppbarComponent></AppbarComponent>
       </div>
     </React.Fragment>
   );
